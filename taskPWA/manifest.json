@@ -1,0 +1,20 @@
+{
+  "name": "To-Do List PWA",
+  "short_name": "To-Do",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5cb85c",
+  "icons": [
+    {
+      "src": "icon1 (1).png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon1 (2).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
